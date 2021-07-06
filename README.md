@@ -16,5 +16,6 @@ use `exports.xng_parsingtable:ParsingTable_sv(tablename)`
 
 use `exports.xng_parsingtable:ParsingTable_cl(tablename)`
 
+there're two example in example folders if you r still confused
 
 
