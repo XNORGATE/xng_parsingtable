@@ -19,3 +19,4 @@ use `exports.xng_parsingtable:ParsingTable_cl(tablename)`
 there're two example in example folders if you r still confused
 
 
+P.S. it's a modified code from other web 
